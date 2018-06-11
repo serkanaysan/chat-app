@@ -16,4 +16,11 @@ pod install
 MessagesController.swift
 ```
 
+## Example Users
+
+```
+serkan@gmail.com -> 123456
+omer@gmail.com -> 123456
+```
+
 -Serkan Aysan
